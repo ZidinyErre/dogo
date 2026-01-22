@@ -1,4 +1,3 @@
-# curl -H  "x-api-key: REMOVED" https://api.thedogapi.com/v1/images/search
 
 from typing import Union
 from fastapi import FastAPI
